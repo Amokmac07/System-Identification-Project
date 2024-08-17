@@ -1,6 +1,6 @@
-# System Identification Project (CH5230)
+# System Identification Project 
 
-This repository contains the MATLAB code and documentation for a project on system identification using orthogonal basis filters (OBFs), specifically Laguerre filters. This project was completed as part of the CH5230 course at the Indian Institute of Technology Madras.
+This repository contains the MATLAB code and documentation for a project on system identification using orthogonal basis filters (OBFs), specifically Laguerre filters. This project was completed as part of the CH5230 course Data Driven Modelling of Process Systems at the Indian Institute of Technology Madras.
 
 ## Project Overview
 
